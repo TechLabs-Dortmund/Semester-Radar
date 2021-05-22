@@ -50,6 +50,12 @@ export default defineComponent({
               </div></h2
           ></NuxtLink>
           <ClientOnly>
+            <p v-if="milestone.starts" class="text-lg">
+              Starts
+              {{
+                format(new Date(milestone.starts), "MMMM do, 'at' h:mm aaaa")
+              }}
+            </p>
             <p class="text-lg">
               Due
               {{
