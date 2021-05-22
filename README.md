@@ -111,7 +111,7 @@ The Events and Milestones are then placed automatically within their respective 
 
 Inside the `/content/events` folder, you'll find files to all the events in the semester. Each file contain the following properties:
 
-| property        | description                                                                                                                    | example                     | required | type       |
+| property        | description                                                                                                                    | example                     | required | type       |          |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | -------- | ---------- | -------- |
 | `title`         | the event title                                                                                                                | Welcome Event ST21          | yes      | `string`   |
 | `date`          | time and date of the event, including timezone                                                                                 | `2021-03-16T19:30:00+02:00` | yes      | `datetime` |
