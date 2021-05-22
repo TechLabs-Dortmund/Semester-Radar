@@ -4,8 +4,8 @@ sections:
     questions:
       - title: What tools do I need? How do I get them?
         content: |
-          - We use Slack to stay in touch with each other. 
-          - Your learning material will be provided on our learning platform edyoucated. 
+          - We use Slack to stay in touch with each other.
+          - Your learning material will be provided on our learning platform edyoucated.
 
           We will provide instructions on how to join both our Slack workspace and edyoucated in our Kick-Off event.
       - title: How do I keep up-to-date?
@@ -129,24 +129,24 @@ sections:
       - title: I am currently unemployed, can I still get in?
         content: |
           That's not a problem at all, see above.
-      - title: Am I required to live in Berlin?
+      - title: Am I required to live in Dortmund?
         content: |
-          Since community engagement is one of the main building blocks of our community, we ask participants to be based in or nearby Berlin so that they can easily attend community gatherings.
+          Since community engagement is one of the main building blocks of our community, we ask participants to be based in or nearby Dortmund so that they can easily attend community gatherings.
 
-          If you're not based in Berlin, there may be a local TechLabs group near you. You can find out at [techlabs.org/apply](https://www.techlabs.org/apply).
+          If you're not based in Dortmund, there may be a local TechLabs group near you. You can find out at [techlabs.org/apply](https://www.techlabs.org/apply).
 
-  - title: About TechLabs Berlin
+  - title: About TechLabs Dortmund
     questions:
       - title: What is TechLabs' business model, how can we provide education for free?
         content: |
-          TechLabs is a non-profit organitazion, therefore we do not have an inate business model and we are not trying to make a profit. Our vision is to enable Digital Shapers to be able to use their digital skills to work on some of world's challenges. We're partnering with companies to achieve this goal. Those partnerships enable us to have nice meeting spaces and events where we can provide our participants with drinks and snacks for free, for example. We also try to get enough funding to be able to reimburse the cost of online learning courses to our participants. TechLabs Berlin is currently cooperating with Microsoft as a location sponsor.
-      - title: Who else is behind TechLabs Berlin?
+          TechLabs is a non-profit organitazion, therefore we do not have an inate business model and we are not trying to make a profit. Our vision is to enable Digital Shapers to be able to use their digital skills to work on some of world's challenges. We're partnering with companies to achieve this goal. Those partnerships enable us to have nice meeting spaces and events where we can provide our participants with drinks and snacks for free, for example. We also try to get enough funding to be able to reimburse the cost of online learning courses to our participants.
+      - title: Who else is behind TechLabs Dortmund?
         content: |
-          Our team for Berlin consists of the board team which organizes the semester structure, organization, partnerships and marketing. In addition to the board, there are four track leads for DS, AI, WebDev and UX and the mentors.
-          
-          As we are part of the larger [TechLabs organization](https://techlabs.org), we are able to share the learning materials, journey, collaboration infrastructure, branding, and others with other TechLabs locations. Running TechLabs Berlin with such a small group wouldn't be possible without support from the TechLabs organization at all, so we're really thankful for that.
-          
-          Also keep in mind that even if you're not based in Berlin, there may be a local TechLabs group near you. You can find out at [techlabs.org/apply](https://www.techlabs.org/apply).
-      - title: "What's the difference between the #codeathome Bootcamp and TechLabs Berlin?"
+          Our team for Dortmund consists of the board team which organizes the semester structure, organization, partnerships and marketing. In addition to the board, there are four track leads for DS, AI, WebDev and UX and the mentors.
+
+          As we are part of the larger [TechLabs organization](https://techlabs.org), we are able to share the learning materials, journey, collaboration infrastructure, branding, and others with other TechLabs locations. Running TechLabs Dortmund with such a small group wouldn't be possible without support from the TechLabs organization at all, so we're really thankful for that.
+
+          Also keep in mind that even if you're not based in Dortmund, there may be a local TechLabs group near you. You can find out at [techlabs.org/apply](https://www.techlabs.org/apply).
+      - title: "What's the difference between the #codeathome Bootcamp and TechLabs Dortmund?"
         content: |
-          The [#codeathome Bootcamp](https://www.techlabs.org/program/remote) is a remote-only course and not tied to a particular TechLabs location. We want to offer tech education for participants based in or around Berlin.
+          The [#codeathome Bootcamp](https://www.techlabs.org/program/remote) is a remote-only course and not tied to a particular TechLabs location. We want to offer tech education for participants based in or around Dortmund.
