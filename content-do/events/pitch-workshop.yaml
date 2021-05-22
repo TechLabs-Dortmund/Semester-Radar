@@ -1,0 +1,16 @@
+---
+title: "Pitch Workshop"
+date: '2021-09-30T19:00:00+02:00'
+description: |
+#TODO
+is_public: true
+show_resources: true
+meetings:
+  - title: 'Zoom Meeting'
+    description: 'The main room where we will meet.'
+    type: meeting
+    url: #TODO
+forms:
+  []
+resources:
+  []

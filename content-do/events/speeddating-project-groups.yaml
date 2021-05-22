@@ -1,0 +1,16 @@
+---
+title: Speeddating Project Groups
+date: '2021-08-05T19:00:00+02:00'
+description: |
+#TODO
+is_public: true
+show_resources: true
+meetings:
+  - title: 'Zoom Meeting'
+    description: 'The main room where we will meet.'
+    type: meeting
+    url: #TODO
+forms:
+  []
+resources:
+  []
