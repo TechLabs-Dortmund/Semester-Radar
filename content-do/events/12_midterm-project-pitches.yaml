@@ -2,12 +2,14 @@
 title: Midterm Project Pitches
 date: '2021-08-26T19:00:00+02:00'
 description: |
-#TODO
-is_public: true
+  Every team should give a short project presentation pitch of the current progress and the future goals and tasks.
+
+  This firstly helps you to get a better overview of your projects yourselves, but it also helps to have a look at other projects to see how problems you might had or will might have to solve were solved by other groups.
+is_public: false
 show_resources: true
 meetings:
   - title: 'Zoom Meeting'
-    description: 'The main room where we will meet.'
+    description: 'The main room where we will meet'
     type: meeting
     url: #TODO
 forms:

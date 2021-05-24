@@ -2,12 +2,12 @@
 title: Project Kick-Off
 date: '2021-07-20T19:00:00+02:00'
 description: |
-#TODO
-is_public: true
+  On this event we will officially kick-off the project phase. It will include updates about the Transition Period, updates from all teams, and some pointers about project management.
+is_public: false
 show_resources: true
 meetings:
   - title: 'Zoom Meeting'
-    description: 'The main room where we will meet.'
+    description: 'The main room where we will meet'
     type: meeting
     url: #TODO
 forms:

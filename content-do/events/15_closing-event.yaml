@@ -2,12 +2,14 @@
 title: Project Pitches & Closing Ceremony
 date: '2021-10-28T19:00:00+02:00'
 description: |
-#TODO
-is_public: true
+  This event will conclude your Journey. This is where you can show off what you've been working on the past months!
+
+  We will also have a little closing ceremony, where we will talk about comes next.
+is_public: false
 show_resources: true
 meetings:
   - title: 'Zoom Meeting'
-    description: 'The main room where we will meet.'
+    description: 'The main room where we will meet'
     type: meeting
     url: #TODO
 forms:

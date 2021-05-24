@@ -2,12 +2,12 @@
 title: Open Q&A
 date: '2021-05-13T19:00:00+02:00'
 description: |
-#TODO
-is_public: true
+  We will be available for you in the meeting room to answer all questions you might have.
+is_public: false
 show_resources: true
 meetings:
   - title: 'Zoom Meeting'
-    description: 'The main room where we will meet.'
+    description: 'The main room where we will meet'
     type: meeting
     url: #TODO
 forms:

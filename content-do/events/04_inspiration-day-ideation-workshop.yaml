@@ -2,12 +2,15 @@
 title: Inspiration Day & Ideation Workshop
 date: '2021-06-24T19:00:00+02:00'
 description: |
-#TODO
-is_public: true
+  We will foster your creativity to imagine project ideas based on real-world problems.
+
+  You will be able to learn about and participate in ideation methods from the Design Thinking Space.
+  Of course this will be guided by TechLabs Dortmund team members and Design Thinking Experts!
+is_public: false
 show_resources: true
 meetings:
   - title: 'Zoom Meeting'
-    description: 'The main room where we will meet.'
+    description: 'The main room where we will meet'
     type: meeting
     url: #TODO
 forms:

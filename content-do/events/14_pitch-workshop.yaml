@@ -2,12 +2,12 @@
 title: "Pitch Workshop"
 date: '2021-09-30T19:00:00+02:00'
 description: |
-#TODO
-is_public: true
+  Since you will pitch your project at the end of the semester, this workshop's goal is to provide you with the tools and knowledge you're going to need in order to successfully pitch your project to interested stakeholders, in our case the other participants.
+is_public: false
 show_resources: true
 meetings:
   - title: 'Zoom Meeting'
-    description: 'The main room where we will meet.'
+    description: 'The main room where we will meet'
     type: meeting
     url: #TODO
 forms:
