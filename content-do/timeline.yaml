@@ -16,17 +16,15 @@ timeline:
     startDate: 2021/05/10
     endDate: 2021/07/18
 
-    #TODO 4-6 Techies?
   - title: Project Phase
     description: |
       This is prime time! You imagine and implement a prototype in a project of your own.
-      You team up as a group of 4-6 Techies and work together to create something big. Experienced mentors will be on your side for support.
+      You team up as a group of 3-5 Techies and work together to create something big. Experienced mentors will be on your side for support.
     startDate: 2021/07/19
     endDate: 2021/10/24
 
-    #TODO prototype?
   - title: Closing Week
     description: |
-      You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will be given your Digital Shaper Certificate.
+      You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will pitch your final results.
     startDate: 2021/10/25
     endDate: 2021/10/31

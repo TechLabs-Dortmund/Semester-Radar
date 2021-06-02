@@ -16,19 +16,11 @@ meetings:
   - title: 'Meeting: Kick-Off'
     description: 'The main room where we will meet'
     type: meeting
-    url: #TODO
+    url: ''
 forms:
   []
 resources:
-  - title: 'Slides'
-    description: The presentation we showed you during the Kick-Off
-    type: slides
-    url: #TODO
   - title: 'ST21 Google Calendar'
     description: Link to our shared calendar with all events and milestones
     type: link
-    url: #TODO
-  - title: 'Recording'
-    description: The recording of the Kick-Off Event
-    type: video
-    url: #TODO
+    url: https://calendar.google.com/calendar/u/1/r?cid=Y19tODY3MGxxNmJoNG5haXRvYXR1NmxmZ2cxZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t

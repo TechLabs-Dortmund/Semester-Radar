@@ -9,7 +9,7 @@ meetings:
   - title: 'Zoom Meeting'
     description: 'The main room where we will meet'
     type: meeting
-    url: #TODO
+    url: ''
 forms:
   []
 resources:

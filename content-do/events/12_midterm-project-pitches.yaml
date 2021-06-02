@@ -11,7 +11,7 @@ meetings:
   - title: 'Zoom Meeting'
     description: 'The main room where we will meet'
     type: meeting
-    url: #TODO
+    url: https://zoom.us/j/97346959931
 forms:
   []
 resources:

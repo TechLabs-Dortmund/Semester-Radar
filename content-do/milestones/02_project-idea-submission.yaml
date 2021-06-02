@@ -10,6 +10,6 @@ description: |
 todos:
    - name: Submit your project idea
      resources:
-       - title: Project Idea Submission Form
+       - title: Project Idea Submission Form - Following Soon!
          type: form
-         url: #TODO
+         url: ''
