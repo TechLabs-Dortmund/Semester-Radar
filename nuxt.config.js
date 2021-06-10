@@ -12,7 +12,7 @@ export default {
 
   // uncomment the lines below if you are deploying to GitHub pages
   router: {
-    base: '/radar/',
+    base: '/',
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
