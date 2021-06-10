@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fradar\u002F_nuxt\u002Fstatic\u002F1623330050",layout:"default",error:a,serverRendered:true,routePath:"\u002Ffaq",config:{app:{basePath:"\u002Fradar\u002F",assetsPath:"\u002Fradar\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"bebd4660"}},globalRefs:{}}}(null));
