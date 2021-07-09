@@ -2,19 +2,19 @@
 ---
 startsAt: 0
 timeline:
-  - title: Kick-Off Week
-    description: |
-      You join the community and get access to our learning platform edyoucated.
-      We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge.
-    startDate: 2021/05/03
-    endDate: 2021/05/09
+#   - title: Kick-Off Week
+#     description: |
+#       You join the community and get access to our learning platform edyoucated.
+#       We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge.
+#     startDate: 2021/05/03
+#     endDate: 2021/05/09
 
-  - title: Academy Phase
-    description: |
-      You work through your track on edyoucated and become a master of your class.
-      We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
-    startDate: 2021/05/10
-    endDate: 2021/07/18
+#   - title: Academy Phase
+#     description: |
+#       You work through your track on edyoucated and become a master of your class.
+#       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
+#     startDate: 2021/05/10
+#     endDate: 2021/07/18
 
   - title: Project Phase
     description: |
