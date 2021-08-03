@@ -16,7 +16,7 @@ meetings:
     url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzA5N2FmZjItYmJlMi00YTg1LWFhNmEtZDc4MDgxODE1MTIx%40thread.v2/0?context=%7b%22Tid%22%3a%22e0793d39-0939-496d-b129-198edd916feb%22%2c%22Oid%22%3a%22f8784147-f8b9-4dfe-9fc9-cf1597f9a002%22%7d
 forms:
   - title: Attendance Survey
-    description: Filling out this survey in case you can not join is obligatory. Otherwise you will be marked as "missing without excuse".
+    description: Filling out this survey is obligatory. Otherwise in case you won't show up you will be marked as "missing without excuse".
     url: https://techlabsorg.typeform.com/to/pBpAyj5K
 resources:
   []
