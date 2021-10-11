@@ -1,7 +1,7 @@
 ---
 title: Project Preference Submission
-starts: 2021-07-05T00:00:00+02:00
-deadline: 2021-07-15T23:59:59+02:00
+starts: 2021-12-20T00:00:00+02:00
+deadline: 2021-12-30T23:59:59+02:00
 type: cutoff
 description: |
   This is where you will tell us which project you want to work on.
@@ -10,6 +10,6 @@ description: |
 todos:
    - name: Submit your project preference
      resources:
-       - title: Project Preference Submission Form
+       - title: Project Preference Submission Form - Following Soon!
          type: form
-         url: https://techlabsorg.typeform.com/to/xNv4hXbV
+         url: ''

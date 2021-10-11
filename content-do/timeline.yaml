@@ -2,29 +2,29 @@
 ---
 startsAt: 0
 timeline:
-#   - title: Kick-Off Week
-#     description: |
-#       You join the community and get access to our learning platform edyoucated.
-#       We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge.
-#     startDate: 2021/05/03
-#     endDate: 2021/05/09
+   - title: Onboarding Phase
+     description: |
+       You join the community and get access to our learning platform edyoucated.
+       We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge.
+     startDate: 2021/10/18
+     endDate: 2021/10/31
 
-#   - title: Academy Phase
-#     description: |
-#       You work through your track on edyoucated and become a master of your class.
-#       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
-#     startDate: 2021/05/10
-#     endDate: 2021/07/18
+   - title: Academy Phase
+     description: |
+       You work through your track on edyoucated and become a master of your class.
+       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
+     startDate: 2021/11/01
+     endDate: 2022/01/02
 
   - title: Project Phase
     description: |
       This is prime time! You imagine and implement a prototype in a project of your own.
-      You team up as a group of 3-5 Techies and work together to create something big. Experienced mentors will be on your side for support.
-    startDate: 2021/07/19
-    endDate: 2021/10/24
+      You team up as a group of about 5 Techies and work together to create something big. Experienced mentors will be on your side for support.
+    startDate: 2022/01/03
+    endDate: 2022/04/10
 
   - title: Closing Week
     description: |
       You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will pitch your final results.
-    startDate: 2021/10/25
-    endDate: 2021/10/31
+    startDate: 2022/04/11
+    endDate: 2022/04/17

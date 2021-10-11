@@ -1,10 +1,10 @@
 ---
-title: Speeddating
-date: '2021-11-11T19:00:00+02:00'
+title: Speeddating Project Groups
+date: '2022-02-03T19:00:00+02:00'
 description: |
   Since COVID-19 has started social contacts have decreased drastically. We at TechLabs are also affected.
 
-  This is why this event is all about getting to know each other in a 'speeddating' manner. You will have several chats with other participants, talking about different topics e.g. hobbies and personal interests.
+  This is why this event is all about getting to know each other in a 'speeddating' manner, this time across project teams. You will have several chats with other participants, talking about different topics e.g. hobbies and personal interests.
   We are looking forward to you getting to know each other a little bit more and having a fun time together.
 is_public: false
 show_resources: true
@@ -12,7 +12,7 @@ meetings:
   - title: 'Zoom Meeting'
     description: 'The main room where we will meet'
     type: meeting
-    url: 'https://us06web.zoom.us/j/87146348931'
+    url: 'https://us06web.zoom.us/j/82149743742'
 forms:
   []
 resources:

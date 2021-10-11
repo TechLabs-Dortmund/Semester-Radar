@@ -1,0 +1,16 @@
+---
+title: 'Workshop #2'
+date: '2021-11-25T19:00:00+02:00'
+description: |
+  To be announced.
+is_public: false
+show_resources: true
+meetings:
+  - title: 'Zoom Meeting'
+    description: 'The main room where we will meet'
+    type: meeting
+    url: 'https://us06web.zoom.us/j/83859043261'
+forms:
+  []
+resources:
+  []
