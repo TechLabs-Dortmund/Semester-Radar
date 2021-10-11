@@ -16,15 +16,15 @@ timeline:
      startDate: 2021/11/01
      endDate: 2022/01/02
 
-  - title: Project Phase
-    description: |
-      This is prime time! You imagine and implement a prototype in a project of your own.
-      You team up as a group of about 5 Techies and work together to create something big. Experienced mentors will be on your side for support.
-    startDate: 2022/01/03
-    endDate: 2022/04/10
+   - title: Project Phase
+     description: |
+       This is prime time! You imagine and implement a prototype in a project of your own.
+       You team up as a group of about 5 Techies and work together to create something big. Experienced mentors will be on your side for support.
+     startDate: 2022/01/03
+     endDate: 2022/04/10
 
-  - title: Closing Week
-    description: |
-      You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will pitch your final results.
-    startDate: 2022/04/11
-    endDate: 2022/04/17
+   - title: Closing Week
+     description: |
+       You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will pitch your final results.
+     startDate: 2022/04/11
+     endDate: 2022/04/17
