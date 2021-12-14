@@ -1,0 +1,16 @@
+---
+title: Game-Night Social
+date: '2021-12-16T19:00:00+01:00'
+description: |
+  On this event we will have a little social get together. We are just going to have a fun time together, chatting and playing games together everybody can play! We hope to see many of you!
+is_public: false
+show_resources: true
+meetings:
+  - title: 'Around Meeting'
+    description: 'The main room where we will meet'
+    type: meeting
+    url: 'https://around.co/r/techlabs-event'
+forms:
+  []
+resources:
+  []
