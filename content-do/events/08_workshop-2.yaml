@@ -1,15 +1,19 @@
 ---
-title: 'Workshop #2'
+title: 'Get Stuff Done: Dive into modern project management & learn what's behind the buzz words "Agile" & "Scrum"'
 date: '2022-01-27T19:00:00+01:00'
 description: |
-  To be announced.
+  What is project management and what are the success factors for a successful project?
+  This question is not only on the minds of project managers, but also of entire organizations and, last but not least, project teams. There are a lot of methods and tools that provide a good starting point for a smooth project start and yet it is not said for nothing "A fool with a tool is still a fool". At least as important are the right mindset and the right collaboration within teams.
+  Especially in software development people rely on agility and Scrum for project management. But what exactly is behind all the buzzwords?
+  Our partners at [Accenture Interactive](https://www.accenture.com/de-de/about/accenture-interactive-index) give you their best practices and lessons learned for managing software projects in a team. They’ll give you recommendations how you guys can manage your upcoming projects and work together to deliver great results & projects for the end of your Digital Shaper Program. You’ll also get the opportunity to ask them anything you’d like to know about agile, scrum.
+  _Please be aware that this is a __mandatory event__ to complete the Digital Shaper Program and receive your certificate. If, for any reason, you’re not available to join this event, please let us know in advance._
 is_public: false
 show_resources: true
 meetings:
-  - title: 'Zoom Meeting'
+  - title: 'Microsoft Teams Meeting'
     description: 'The main room where we will meet'
     type: meeting
-    url: 'https://us06web.zoom.us/j/88378880041'
+    url: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWY4MDdjZWYtZTQwNS00MjFmLWE5OWEtYzVhYTQyNDYwMGQ0%40thread.v2/0?context=%7b%22Tid%22%3a%22e0793d39-0939-496d-b129-198edd916feb%22%2c%22Oid%22%3a%22f8784147-f8b9-4dfe-9fc9-cf1597f9a002%22%7d'
 forms:
   []
 resources:
