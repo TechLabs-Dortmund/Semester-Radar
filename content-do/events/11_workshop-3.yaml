@@ -1,17 +1,15 @@
 ---
-title: 'TechLabs x CDI'
-date: '2022-02-22T19:00:00+01:00'
+title: 'Workshop / Talk (tba)'
+date: '2022-09-06T19:00:00+02:00'
 description: |
-  * Wie verbinde ich das UI mit dem Backend?
-  * Wie entwickele ich mit JavaScript einfach Services für das Backend?
-  * Wie deploye ich die UI und das Backend mit Docker?
+  To be announced.
 is_public: false
 show_resources: true
 meetings:
   - title: 'Zoom Meeting'
     description: 'The main room where we will meet'
     type: meeting
-    url: 'https://us06web.zoom.us/j/83370430772'
+    url: 'https://us06web.zoom.us/j/82358351579'
 forms:
   []
 resources:

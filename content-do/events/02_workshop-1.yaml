@@ -1,6 +1,6 @@
 ---
-title: "Workshop Weekend #3"
-date: '2021-07-25T12:00:00+02:00'
+title: 'Workshop / Talk (tba)'
+date: '2022-05-31T19:00:00+02:00'
 description: |
   To be announced.
 is_public: false
@@ -9,7 +9,7 @@ meetings:
   - title: 'Zoom Meeting'
     description: 'The main room where we will meet'
     type: meeting
-    url: #TODO
+    url: 'https://us06web.zoom.us/j/82052824805'
 forms:
   []
 resources:

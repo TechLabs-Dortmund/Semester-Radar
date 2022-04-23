@@ -1,0 +1,17 @@
+---
+title: Data Science & Backend Workshop
+date: '2022-02-24T19:00:00+01:00'
+description: |
+  This workshop is going to teach you the basics of how to write a proper backend in python.
+  We will especially discuss how you can actually link the backend logic and data with the frontend UI.
+is_public: false
+show_resources: true
+meetings:
+  - title: 'Zoom Meeting'
+    description: 'The main room where we will meet'
+    type: meeting
+    url: 'https://us06web.zoom.us/j/81522276459'
+forms:
+  []
+resources:
+  []

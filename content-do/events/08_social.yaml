@@ -1,0 +1,18 @@
+---
+title: Social Event
+date: '2022-08-18T19:00:00+02:00'
+description: |
+  Since COVID-19 has started social contacts have decreased drastically. We at TechLabs are also affected.
+
+  This is why this event is all about getting to know each other a little more and staying in contact through out the journey.
+is_public: false
+show_resources: true
+meetings:
+  - title: 'Zoom Meeting'
+    description: 'The main room where we will meet'
+    type: meeting
+    url: 'https://us06web.zoom.us/j/81211885043'
+forms:
+  []
+resources:
+  []

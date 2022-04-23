@@ -1,6 +1,6 @@
 ---
-title: Semester Kick-Off
-date: '2021-05-06T19:00:00+02:00'
+title: Semester Kick-Off Winterterm 20/21
+date: '2021-10-21T19:00:00+02:00'
 description: |
   This is where your Digital Shaper Journey will start. We'll give you a summary on all you need to know to master your track.
   Our topics include:
@@ -16,11 +16,8 @@ meetings:
   - title: 'Meeting: Kick-Off'
     description: 'The main room where we will meet'
     type: meeting
-    url: ''
+    url: 'https://us06web.zoom.us/j/83196796169'
 forms:
   []
 resources:
-  - title: 'ST21 Google Calendar'
-    description: Link to our shared calendar with all events and milestones
-    type: link
-    url: https://calendar.google.com/calendar/u/1/r?cid=Y19tODY3MGxxNmJoNG5haXRvYXR1NmxmZ2cxZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+  []
