@@ -1,8 +1,8 @@
 ---
-title: 'Workshop / Talk (tba)'
+title: 'Introduction to GitHub'
 date: '2022-05-31T19:00:00+02:00'
 description: |
-  To be announced.
+  GitHub is a code hosting platform for version control and collaboration. The time of sharing files with a version inside its name is over – no more Project_v1.txt, Project_v2.txt, Project_v3.txt! In this session, you will learn the basics of git and to use GitHub for organizing your work.
 is_public: false
 show_resources: true
 meetings:
