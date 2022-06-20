@@ -10,6 +10,6 @@ description: |
 todos:
    - name: Submit your project idea
      resources:
-       - title: Project Idea Submission Form - Following Soon!
+       - title: Project Idea Submission Form
          type: form
-         url: ''
+         url: 'https://techlabsorg.typeform.com/DoIdeasST2022'
