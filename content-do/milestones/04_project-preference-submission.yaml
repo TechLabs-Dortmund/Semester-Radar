@@ -10,6 +10,6 @@ description: |
 todos:
    - name: Submit your project preference
      resources:
-       - title: Project Preference Submission Form - Following Soon!
+       - title: Project Preference Submission Form
          type: form
          url: 'https://techlabsorg.typeform.com/TLDoPreferences'
