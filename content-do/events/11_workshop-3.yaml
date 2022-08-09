@@ -1,15 +1,19 @@
 ---
-title: 'Workshop / Talk (tba)'
+title: 'Talk with and at Accenture Song'
 date: '2022-09-06T19:00:00+02:00'
 description: |
-  To be announced.
+  Our first **real presence event** is coming up, so make sure to mark the date in your calendar. Our partner Accenture Song invites you:
+  * When?  September 6th, 7 - 9 p.m.
+  * Where?  At Accenture Song, Sebrathweg 20, Dortmund (close to the TU Dortmund)
+  * What?  Timo from Accenture will talk about his experiences as a consultant in the VFX industry and show you how your favorite series and movies were created and what the metaverse is all about.
+  Afterwards, you will have the opportunity to get to know each other and exchange ideas over currywurst and beer. After all, Accenture Song is always happy to welcome working students
 is_public: false
 show_resources: true
 meetings:
-  - title: 'Zoom Meeting'
-    description: 'The main room where we will meet'
+  - title: 'We're meeting at site!'
+    description: 'For further details check above'
     type: meeting
-    url: 'https://us06web.zoom.us/j/82358351579'
+    url: ''
 forms:
   []
 resources:
