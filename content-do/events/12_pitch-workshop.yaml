@@ -1,5 +1,5 @@
 ---
-title: "Pitch Workshop"
+title: "[CANCELLED] Pitch Workshop"
 date: '2022-09-15T19:00:00+02:00'
 description: |
   This interactive workshop is about the preparation for the project pitches at the final event.
@@ -8,10 +8,10 @@ description: |
 is_public: false
 show_resources: true
 meetings:
-  - title: 'Zoom Meeting'
+  - title: 'CANCELLED'
     description: 'The main room where we will meet'
     type: meeting
-    url: 'https://us06web.zoom.us/j/82030909445'
+    url: ''
 forms:
   []
 resources:
