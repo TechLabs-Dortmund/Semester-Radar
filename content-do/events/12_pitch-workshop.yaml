@@ -1,6 +1,6 @@
 ---
-title: "[CANCELLED] Pitch Workshop"
-date: '2022-09-15T19:00:00+02:00'
+title: "Pitch Workshop"
+date: '2022-09-22T19:00:00+02:00'
 description: |
   This interactive workshop is about the preparation for the project pitches at the final event.
   The content will cover presentation techniques and the structure of a pitch. You will then be able to practice what you have learned and get feedback on your own small pitch. Finally, you will receive further information on the planning of the final event.
@@ -8,10 +8,10 @@ description: |
 is_public: false
 show_resources: true
 meetings:
-  - title: 'CANCELLED'
+  - title: 'Zoom Meeting'
     description: 'The main room where we will meet'
     type: meeting
-    url: ''
+    url: 'https://us06web.zoom.us/j/82030909445'
 forms:
   []
 resources:
