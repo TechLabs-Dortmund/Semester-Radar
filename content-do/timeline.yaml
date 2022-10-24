@@ -2,29 +2,29 @@
 ---
 startsAt: 0
 timeline:
-   - title: Onboarding Phase
-     description: |
-       You join the community and get access to our learning platform edyoucated.
-       We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge.
-     startDate: 2022/05/02
-     endDate: 2022/05/08
+  - title: Onboarding Phase
+    description: |
+      You join the community and get access to our learning platform edyoucated.
+      We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge.
+    startDate: 2022/11/03
+    endDate: 2022/11/09
 
-   - title: Academy Phase
-     description: |
-       You work through your track on edyoucated and become a master of your class.
-       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
-     startDate: 2022/05/09
-     endDate: 2022/07/10
+  - title: Academy Phase
+    description: |
+      You work through your track on edyoucated and become a master of your class.
+      We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
+    startDate: 2022/11/10
+    endDate: 2023/01/11
 
-   - title: Project Phase
-     description: |
-       This is prime time! You imagine and implement a prototype in a project of your own.
-       You team up as a group of about 5 Techies and work together to create something big. Experienced mentors will be on your side for support.
-     startDate: 2022/07/11
-     endDate: 2022/10/16
+  - title: Project Phase
+    description: |
+      This is prime time! You imagine and implement a prototype in a project of your own.
+      You team up as a group of about 5 Techies and work together to create something big. Experienced mentors will be on your side for support.
+    startDate: 2023/01/12
+    endDate: 2023/04/06
 
-   - title: Closing Week
-     description: |
-       You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will pitch your final results.
-     startDate: 2022/10/17
-     endDate: 2022/10/23
+  - title: Closing Week
+    description: |
+      You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will pitch your final results.
+    startDate: 2023/04/07
+    endDate: 2023/04/20

@@ -1,15 +1,15 @@
 ---
 title: Project Preference Submission
-starts: 2022-07-02T00:00:00+02:00
-deadline: 2022-07-05T23:59:59+02:00
+starts: 2022-12-23T00:00:00+02:00
+deadline: 2022-12-31T23:59:59+02:00
 type: cutoff
 description: |
   This is where you will tell us which project you want to work on.
 
   We will tell you the result in due time and ensure everyone gets their favorite project.
 todos:
-   - name: Submit your project preference
-     resources:
-       - title: Project Preference Submission Form
-         type: form
-         url: 'https://techlabsorg.typeform.com/TLDoPreferences'
+  - name: Submit your project preference
+    resources:
+      - title: Project Preference Submission Form
+        type: form
+        url: "https://techlabsorg.typeform.com/TLDoPreferences"
