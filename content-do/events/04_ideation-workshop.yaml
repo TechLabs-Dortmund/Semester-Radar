@@ -1,6 +1,6 @@
 ---
 title: Ideation Workshop
-date: '2022-06-21T19:00:00+02:00'
+date: "2022-12-13T19:00:00+02:00"
 description: |
   We will foster your creativity to imagine project ideas based on real-world problems and further continue working on the brainstormed project ideas from the Project Phase DeepDive.
 
@@ -8,12 +8,6 @@ description: |
   Of course this will be guided by TechLabs Dortmund team members and Design Thinking Experts!
 is_public: false
 show_resources: true
-meetings:
-  - title: 'Zoom Meeting'
-    description: 'The main room where we will meet'
-    type: meeting
-    url: 'https://us06web.zoom.us/j/83570290775'
-forms:
-  []
-resources:
-  []
+meetings: []
+forms: []
+resources: []

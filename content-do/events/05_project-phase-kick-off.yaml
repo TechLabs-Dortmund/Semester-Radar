@@ -1,16 +1,10 @@
 ---
 title: Project Kick-Off
-date: '2022-07-12T19:00:00+02:00'
+date: "2023-01-12T19:00:00+02:00"
 description: |
   On this event we will officially kick-off the project phase. It will include updates about the Transition Period, updates from all teams, and some pointers about project management.
 is_public: false
 show_resources: true
-meetings:
-  - title: 'Zoom Meeting'
-    description: 'The main room where we will meet'
-    type: meeting
-    url: 'https://us06web.zoom.us/j/83483183665'
-forms:
-  []
-resources:
-  []
+meetings: []
+forms: []
+resources: []

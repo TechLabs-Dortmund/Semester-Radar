@@ -1,6 +1,6 @@
 ---
-title: Semester Kick-Off Summerterm 22
-date: '2022-05-03T19:00:00+02:00'
+title: Semester Kick-Off Winterterm 22/23
+date: "2022-11-03T19:00:00+02:00"
 description: |
   This is where your Digital Shaper Journey will start. We'll give you a summary on all you need to know to master your track.
   Our topics include:
@@ -9,15 +9,9 @@ description: |
   2. **Administrative Topics** – your onboarding to our toolset, communication channels, regular meetings & next steps
   3. **Track Get-Together** – you'll meet other participants in the track you're planning to choose, and can ask the Track Leads for more information
 
-  Our goal is for everybody to have a clear understanding about TechLabs Dortmund. We will share the link to join here a few days before the event.
+  Our goal is for everybody to have a clear understanding about TechLabs Dortmund and your Journey!
 is_public: false
-show_resources: true
-meetings:
-  - title: 'Meeting: Kick-Off'
-    description: 'The main room where we will meet'
-    type: meeting
-    url: 'https://us06web.zoom.us/j/88352070324'
-forms:
-  []
-resources:
-  []
+show_resources: false
+meetings: []
+forms: []
+resources: []

@@ -1,0 +1,14 @@
+---
+title: "Talk/Workshop 2 - TBD"
+date: "2022-09-06T19:00:00+02:00"
+description: |
+  TBD
+is_public: false
+show_resources: true
+meetings:
+  - title: "We are meeting at site!"
+    description: "For further details check above"
+    type: meeting
+    url: ""
+forms: []
+resources: []
