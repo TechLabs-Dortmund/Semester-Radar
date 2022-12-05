@@ -6,6 +6,10 @@ description: |
   Also you are going to define your project goal, create a project roadmap and choose your communication tools you.
 is_public: false
 show_resources: true
-meetings: []
+meetings:
+  - title: "Zoom Meeting"
+    description: "The main room where we will meet"
+    type: meeting
+    url: "https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09"
 forms: []
 resources: []
