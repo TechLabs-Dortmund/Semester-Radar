@@ -7,6 +7,10 @@ description: |
   We hope you’re as excited as we are to see all of your pitches!
 is_public: false
 show_resources: true
-meetings: []
+meetings:
+  - title: "Zoom Meeting"
+    description: "The main room where we will meet"
+    type: meeting
+    url: "https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09"
 forms: []
 resources: []
