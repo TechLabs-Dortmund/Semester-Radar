@@ -5,5 +5,10 @@ description: |
   Nils will give you an introduction on how to connect your Data Science insights to your backend.
 is_public: false
 show_resources: true
+meetings:
+  - title: "Zoom Meeting"
+    description: "The main room where we will meet"
+    type: meeting
+    url: "https://us06web.zoom.us/j/82558596618?pwd=MXNXNUtrb1FiYVo1Y3I5VmxQVGlSdz09"
 forms: []
 resources: []
