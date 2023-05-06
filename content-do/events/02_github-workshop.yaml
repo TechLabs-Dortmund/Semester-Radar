@@ -1,13 +1,13 @@
 ---
-title: "Introduction to GitHub"
-date: "2022-11-29T19:00:00+01:00"
+title: 'Introduction to GitHub'
+date: '2023-06-22T19:00:00+02:00'
 description: |
   GitHub is a code hosting platform for version control and collaboration. The time of sharing files with a version inside its name is over – no more Project_v1.txt, Project_v2.txt, Project_v3.txt! In this session, you will learn the basics of git and to use GitHub for organizing your work.
 is_public: false
 show_resources: true
 meetings:
-  - title: "Zoom Meeting"
-    description: "The main room where we will meet"
+  - title: 'Zoom Meeting'
+    description: 'The main room where we will meet'
     type: meeting
     url: Introduction to GitHub
 forms: []

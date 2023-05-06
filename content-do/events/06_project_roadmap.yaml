@@ -1,15 +1,15 @@
 ---
 title: Project Roadmap
-date: "2023-01-17T19:00:00+01:00"
+date: '2023-07-11T19:00:00+02:00'
 description: |
   This will be the first time you are going to have an actual meeting with your personal project group and you are going to get to know each other.
   Also you are going to define your project goal, create a project roadmap and choose your communication tools you.
 is_public: false
 show_resources: true
 meetings:
-  - title: "Zoom Meeting"
-    description: "The main room where we will meet"
+  - title: 'Zoom Meeting'
+    description: 'The main room where we will meet'
     type: meeting
-    url: "https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09"
+    url: 'https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09'
 forms: []
 resources: []

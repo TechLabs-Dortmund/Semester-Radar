@@ -1,14 +1,14 @@
 ---
-title: "Data Science & Backend"
-date: "2023-02-28T19:00:00+01:00"
+title: 'Data Science & Backend'
+date: '2023-07-13T19:00:00+02:00'
 description: |
   Nils will give you an introduction on how to connect your Data Science insights to your backend.
 is_public: false
 show_resources: true
 meetings:
-  - title: "Zoom Meeting"
-    description: "The main room where we will meet"
+  - title: 'Zoom Meeting'
+    description: 'The main room where we will meet'
     type: meeting
-    url: "https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09"
+    url: 'https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09'
 forms: []
 resources: []
