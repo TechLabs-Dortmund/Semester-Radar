@@ -1,7 +1,12 @@
 ---
-title: '80% Checkpoint'
+title: '70% Checkpoint'
 deadline: 2023-06-25T23:59:59+02:00
 type: cutoff
 description: |
-  By now, you should have completed the minimum required __20 hours__ of your learning material. __This is a cutting point__: if you fail to do so, you cannot participate any longer.
+  By now, you should have completed the minimum required __70%__ of your learning material. __This is a cutting point__: if you fail to do so, you cannot participate any longer.
+
+  __DS__ - min. 55h
+  __DL__ - min. 40h
+  __UX__ - min. 40h
+  __WD__ - min. 30h
 todos: []
