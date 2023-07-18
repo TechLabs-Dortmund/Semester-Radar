@@ -1,0 +1,14 @@
+---
+title: 'Agile Development Workshop'
+date: '2023-07-27T19:00:00+02:00'
+description: |
+  The Agile Development Workshop is a hands-on training session that introduces participants to Agile development methodologies, promoting collaboration and adaptability in a concise and interactive format.
+is_public: false
+show_resources: true
+meetings:
+  - title: 'Around Meeting'
+    description: 'The main room where we will meet'
+    type: meeting
+    url: 'https://around.co/r/techlabs'
+forms: []
+resources: []
