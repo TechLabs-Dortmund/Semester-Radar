@@ -6,7 +6,7 @@ description: |
 is_public: false
 show_resources: true
 meetings:
-  - title: 'Around Meeting'
+  - title: 'Zoom Meeting'
     description: 'The main room where we will meet'
     type: meeting
     url: 'https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09'
