@@ -2,13 +2,13 @@
 title: 'Data Science & Backend'
 date: '2023-08-03T19:00:00+02:00'
 description: |
-  Nils will give you an introduction on how to connect your Data Science insights to your backend.
+  Timo will give you an introduction on how to connect your Data Science insights to your backend as well as connecting your backend to your frontend. Learn the basics of FastAPI in Python.
 is_public: false
 show_resources: true
 meetings:
-  - title: 'Around Meeting'
+  - title: 'Zoom Meeting'
     description: 'The main room where we will meet'
     type: meeting
-    url: 'https://around.co/r/techlabs-event'
+    url: 'https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09'
 forms: []
 resources: []
