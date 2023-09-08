@@ -10,6 +10,6 @@ meetings:
   - title: 'Around Meeting'
     description: 'The main room where we will meet'
     type: meeting
-    url: 'https://around.co/r/techlabs-event'
+    url: ''
 forms: []
 resources: []
