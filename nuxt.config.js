@@ -17,7 +17,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - Radar | ST23 | TechLabs Dortmund',
+    titleTemplate: '%s - Radar | WT2023/2024 | TechLabs Ruhr',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

@@ -1,6 +1,6 @@
 {
   "name": "radar",
-  "description": "The TechLabs Dortmund semester radar shows all the important semester information at a glance",
+  "description": "The TechLabs Ruhr semester radar shows all the important semester information at a glance",
   "version": "2.2.0",
   "private": true,
   "author": "Felix Seidel",
