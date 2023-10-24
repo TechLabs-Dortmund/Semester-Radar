@@ -3,10 +3,10 @@ name: cd
 on:
   push:
     branches:
-      - st23
+      - wt2324
   pull_request:
     branches:
-      - st23
+      - wt2324
 
 jobs:
   cd:
