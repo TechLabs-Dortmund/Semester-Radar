@@ -2,9 +2,13 @@
 title: Digital Shaper Summit
 date: '2023-11-14T19:00:00+01:00'
 description: |
-  I'm a placeholder!
+  TechLabs is conducting the Digital Shaper Summit in Düsseldorf!
+
+  The Digital Shaper Summit unites talented individuals that are passionate about shaping our world for good with the help of technology. They are curious to learn about the opportunities of responsible AI and how to to acquire the most needed skills. The summit bridges the gap between two of today’s most pressing challenges: how can we empower more individuals to create positive impact with AI and better understand today's changing world? And how can we use the power of AI to finally make effective digital education accessible for everyone?
 is_public: false
 show_resources: true
 meetings: []
 forms: []
-resources: []
+resources:
+  - title: Website
+    url: https://www.digitalshapersummit.org/

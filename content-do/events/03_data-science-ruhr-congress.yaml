@@ -2,9 +2,13 @@
 title: Data Science Ruhr Congress
 date: '2023-11-14T19:00:00+01:00'
 description: |
-  I'm a placeholder!
+  We are part of the Data Science Ruhr Congress!
+
+  Feel free to meet us at the congress. We are looking forward to meeting you!
 is_public: false
 show_resources: true
 meetings: []
 forms: []
-resources: []
+resources:
+  - title: Website
+    url: https://data-science.ruhr/
