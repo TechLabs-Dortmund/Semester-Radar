@@ -5,10 +5,10 @@ description: |
   We are part of the Data Science Ruhr Congress!
 
   Feel free to meet us at the congress. We are looking forward to meeting you!
+
+  Check out their website: https://data-science.ruhr/
 is_public: false
 show_resources: true
 meetings: []
 forms: []
-resources:
-  - title: Website
-    url: https://data-science.ruhr/
+resources: []
