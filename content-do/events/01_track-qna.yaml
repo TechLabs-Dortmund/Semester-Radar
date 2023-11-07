@@ -6,7 +6,10 @@ description: |
 is_public: false
 show_resources: true
 meetings:
-  []
+  - title: 'Meeting: Track Q&A'
+    description: 'The main room where we will meet'
+    type: meeting
+    url: 'https://around.co/r/techlabs-events'
 forms:
   []
 resources:
