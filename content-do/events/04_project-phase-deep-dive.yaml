@@ -11,7 +11,10 @@ description: |
 is_public: false
 show_resources: true
 meetings:
-  []
+  - title: 'Meeting: Project Phase Deep-Dive'
+    description: 'The main room where we will meet'
+    type: meeting
+    url: 'https://around.co/r/j90qiekw'
 forms:
   []
 resources:
