@@ -37,6 +37,17 @@
             {{ format(eventDate, "MMMM do, 'at' h:mm aaaa") }}
           </p>
         </div>
+
+        <template v-if="tlEvent.is_mandatory">
+          <div>
+            <p class="text-lg text-center">
+              <TIcon
+                icon="alert-box-outline"
+                class="inline-block text-pink-600"
+              />This is a mandatory event!
+            </p>
+          </div>
+        </template>
       </header>
       <main>
         <!-- BODY  -->
