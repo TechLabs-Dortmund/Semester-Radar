@@ -1,6 +1,8 @@
 <template>
   <svg class="icon" :class="{ 'icon-spin': spin }">
     <use :xlink:href="`#${icon}`" />
+    <!-- Only show the title if the variable has been passed in props -->
+    <title v-if="title">{{ title }}</title>
   </svg>
 </template>
 
@@ -14,6 +16,10 @@ export default {
     },
     spin: {
       type: Boolean,
+    },
+    title: {
+      type: String,
+      default: '',
     },
   },
 }

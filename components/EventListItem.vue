@@ -11,6 +11,18 @@
           :class="isCurrentEvent ? 'text-pink-600' : 'text-gray-400'"
         >
           <TIcon icon="calendar-day" class="inline-block" />
+          <TIcon
+            v-if="tlEvent.location"
+            icon="account-group"
+            class="inline-block"
+            title="In-person event"
+          />
+          <TIcon
+            v-else
+            icon="laptop-account"
+            class="inline-block"
+            title="Online event"
+          />
         </p>
         <template v-if="showPermalink">
           <NuxtLink :to="`/event/${tlEvent.slug}`" class="title-link">
