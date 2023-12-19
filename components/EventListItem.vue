@@ -18,7 +18,7 @@
             title="In-person event"
           />
           <TIcon
-            v-else
+            v-else-if="tlEvent.meetings && tlEvent.meetings.length"
             icon="laptop-account"
             class="inline-block"
             title="Online event"
