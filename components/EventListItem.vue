@@ -56,6 +56,29 @@
       </main>
       <!-- RESOURCES  -->
       <aside v-if="hasResources" class="space-y-8">
+        <template v-if="tlEvent.location">
+          <h3 class="title-with-lines">Location</h3>
+          <a
+            :href="tlEvent.location.url"
+            target="_blank"
+            class="flex items-start w-full h-full px-4 py-3 text-left transition-all duration-100 ease-in-out border-2 rounded-lg hover:shadow-lg"
+            :class="
+              onPink
+                ? 'border-pink-900 hover:border-pink-600 hover:text-pink-600'
+                : 'hover:border-blue-600 hover:text-blue-600'
+            "
+          >
+            <div class="flex space-x-4">
+              <p class="flex-none text-xl">
+                <TIcon icon="map" class="inline-block" />
+              </p>
+              <div>
+                <p class="font-bold">{{ tlEvent.location.name }}</p>
+                <p class="text-sm">{{ tlEvent.location.address }}</p>
+              </div>
+            </div>
+          </a>
+        </template>
         <template
           v-if="
             (isInOneHour || isLive) &&
@@ -68,7 +91,7 @@
             title="Meeting Rooms"
           />
         </template>
-        <template v-else-if="isCurrentEvent">
+        <template v-else-if="isCurrentEvent && !tlEvent.location">
           <p class="italic text-center text-gray-400">
             Other event links will be posted soon!
           </p>
@@ -124,7 +147,10 @@ export default defineComponent({
     })
     const hasResources = computed(
       () =>
-        props.tlEvent.resources || props.tlEvent.forms || props.tlEvent.meetings
+        props.tlEvent.resources ||
+        props.tlEvent.forms ||
+        props.tlEvent.meetings ||
+        props.tlEvent.location
     )
 
     const verb = computed(() => {
