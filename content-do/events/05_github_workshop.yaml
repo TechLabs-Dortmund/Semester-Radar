@@ -12,10 +12,10 @@ description: |
 is_public: false
 show_resources: true
 meetings:
-  - title: 'Meeting: Project Phase Deep-Dive'
+  - title: 'Meeting: Introduction to GitHub & Setup Workshop'
     description: 'The main room where we will meet'
     type: meeting
-    url: 'https://around.co/r/j90qiekw'
+    url: 'https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09&omn=86000937038'
 forms:
   []
 resources:
