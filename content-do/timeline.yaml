@@ -6,25 +6,25 @@ timeline:
     description: |
       You join the community and get access to our learning platform edyoucated.
       We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge.
-    startDate: 2023/11/01
-    endDate: 2023/11/05
+    startDate: 2024/04/27
+    endDate: 2024/04/28
 
   - title: Academy Phase
     description: |
       You work through your track on edyoucated and become a master of your class.
       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
-    startDate: 2023/11/06
-    endDate: 2024/01/05
+    startDate: 2024/04/29
+    endDate: 2024/07/19
 
   - title: Project Phase
     description: |
       This is prime time! You imagine and implement a prototype in a project of your own.
       You team up as a group of about 5 Techies and work together to create something big. Experienced mentors will be on your side for support.
-    startDate: 2024/01/06
-    endDate: 2024/03/29
+    startDate: 2024/07/20
+    endDate: 2024/10/13
 
   - title: Closing Week
     description: |
       You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will pitch your final results.
-    startDate: 2024/03/30
-    endDate: 2024/04/04
+    startDate: 2024/10/14
+    endDate: 2024/10/18
