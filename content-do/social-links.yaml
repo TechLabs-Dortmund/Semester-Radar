@@ -1,13 +1,13 @@
 ---
 socialLinks:
   - type: facebook
-    url: https://www.facebook.com/techlabsdo/
+    url: https://www.facebook.com/techlabsruhr/
     is_public: true
   - type: instagram
-    url: https://www.instagram.com/techlabs.do/
+    url: https://www.instagram.com/techlabs.ruhr/
     is_public: true
   - type: linkedin
-    url: https://www.linkedin.com/company/techlabs-dortmund/
+    url: https://www.linkedin.com/company/techlabs-ruhr/
     is_public: true
   - type: slack
     url: https://techlabs-community.slack.com/
