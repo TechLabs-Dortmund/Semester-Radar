@@ -1,16 +1,15 @@
 ---
-title: 'Open Track Q&A'
-date: '2023-11-07T19:00:00+01:00'
+title: "Open Track Q&A"
+date: "2024-04-30T19:00:00+02:00"
 description: |
   Are you lost or do you have questions regarding your track? We've got you covered! Join us for an open Q&A session where you can ask all your questions and get help from our mentors.
 is_public: false
 show_resources: true
 meetings:
-  - title: 'Meeting: Track Q&A'
-    description: 'The main room where we will meet'
+  - title: "Meeting: Track Q&A"
+    description: "The main room where we will meet"
     type: meeting
-    url: 'https://around.co/r/j90qiekw'
-forms:
-  []
-resources:
-  []
+    url: "https://around.co/r/j90qiekw"
+forms: []
+resources: []
+is_mandatory: false

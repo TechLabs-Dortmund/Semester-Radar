@@ -1,6 +1,6 @@
 ---
 title: Project Phase Deep-Dive
-date: '2023-12-07T19:00:00+01:00'
+date: "2024-06-07T19:00:00+02:00"
 description: |
   This is a mandatory event!
 
@@ -11,11 +11,10 @@ description: |
 is_public: false
 show_resources: true
 meetings:
-  - title: 'Meeting: Project Phase Deep-Dive'
-    description: 'The main room where we will meet'
+  - title: "Meeting: Project Phase Deep-Dive"
+    description: "The main room where we will meet"
     type: meeting
-    url: 'https://around.co/r/j90qiekw'
-forms:
-  []
-resources:
-  []
+    url: "https://around.co/r/j90qiekw"
+forms: []
+resources: []
+is_mandatory: true

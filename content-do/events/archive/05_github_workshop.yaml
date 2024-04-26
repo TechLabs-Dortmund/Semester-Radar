@@ -1,6 +1,6 @@
 ---
 title: Introduction to GitHub & Setup Workshop
-date: "2024-07-23T19:00:00+02:00"
+date: '2024-01-11T19:00:00+01:00'
 description: |
   The time of sharing files with a version inside its name is over – no more Project_v1.txt, Project_v2.txt, Project_v3.txt!
 
@@ -12,10 +12,11 @@ description: |
 is_public: false
 show_resources: true
 meetings:
-  - title: "Meeting: Introduction to GitHub & Setup Workshop"
-    description: "The main room where we will meet"
+  - title: 'Meeting: Introduction to GitHub & Setup Workshop'
+    description: 'The main room where we will meet'
     type: meeting
-    url: "https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09&omn=86000937038"
-forms: []
-resources: []
-is_mandatory: false
+    url: 'https://us06web.zoom.us/j/7256109073?pwd=T29SZUJZMmx1c3RGTXVjNWxZdGpBUT09&omn=86000937038'
+forms:
+  []
+resources:
+  []

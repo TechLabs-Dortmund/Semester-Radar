@@ -1,14 +1,15 @@
 ---
-title: 'Data Science & Backend'
-date: '2024-02-01T19:00:00+01:00'
+title: "Data Science & Backend"
+date: "2024-08-08T19:00:00+02:00"
 description: |
   We will give you an introduction on how to connect your Data Science insights to your backend as well as connecting your backend to your frontend. Learn the basics of FastAPI in Python.
 is_public: false
 show_resources: true
 meetings:
-  - title: 'Around'
-    description: 'The main room where we will meet'
+  - title: "Around"
+    description: "The main room where we will meet"
     type: meeting
-    url: 'https://around.co/r/j90qiekw'
+    url: "https://around.co/r/j90qiekw"
 forms: []
 resources: []
+is_mandatory: false

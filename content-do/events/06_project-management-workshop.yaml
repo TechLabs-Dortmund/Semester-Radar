@@ -1,0 +1,17 @@
+---
+title: Agile/Project Management Workshop
+date: "2024-06-22T19:00:00+02:00"
+description: |
+  Get ready to turbocharge your project skills! This essential workshop is designed specifically for you, our Techies, as a crucial preparation for the upcoming project phase. Here, you'll dive deep into Agile methodologies and effective project management techniques. Whether you're coding the next big app or designing cutting-edge user interfaces, these skills will help you streamline your ideas into real-world products.
+
+  Gear up to transform your concepts into creations with your team, and let's innovate together. Don’t miss out on this opportunity to enhance your ability to lead and collaborate in the tech world!
+is_public: false
+show_resources: true
+meetings:
+  - title: "Agile/Project Management Workshop"
+    description: "The main room where we will meet"
+    type: meeting
+    url: "https://around.co/r/j90qiekw"
+forms: []
+resources: []
+is_mandatory: true

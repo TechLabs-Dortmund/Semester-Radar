@@ -1,6 +1,6 @@
 ---
 title: Ideation Workshop
-date: '2023-12-12T19:00:00+01:00'
+date: "2024-06-22T19:00:00+02:00"
 description: |
   This is a mandatory event!
 
@@ -12,12 +12,11 @@ description: |
   Of course this will be guided by TechLabs Dortmund team members and Design Thinking Experts!
 is_public: false
 show_resources: true
-meetings:
-  - title: 'Meeting: Ideation Workshop'
-    description: 'The main room where we will meet'
-    type: meeting
-    url: 'https://around.co/r/j90qiekw'
-forms:
-  []
-resources:
-  []
+meetings: []
+forms: []
+resources: []
+location:
+  name: "KoFabrik in Bochum"
+  address: "Stühmeyerstraße 33, 44787 Bochum"
+  url: "https://maps.app.goo.gl/e3wjUvQmCFNY3GT47"
+is_mandatory: true

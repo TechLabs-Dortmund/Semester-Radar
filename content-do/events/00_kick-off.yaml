@@ -1,6 +1,6 @@
 ---
 title: Semester Kick-Off Winterterm 23/24
-date: '2023-11-02T19:00:00+01:00'
+date: "2024-04-27T19:00:00+02:00"
 description: |
   This is where your Digital Shaper Journey will start. We'll give you a summary on all you need to know to master your track.
   Our topics include:
@@ -12,6 +12,10 @@ description: |
   Our goal is for everybody to have a clear understanding about TechLabs Dortmund and your Journey!
 is_public: false
 show_resources: false
-meetings: []
 forms: []
 resources: []
+location:
+  name: "KoFabrik in Bochum"
+  address: "Stühmeyerstraße 33, 44787 Bochum"
+  url: "https://maps.app.goo.gl/e3wjUvQmCFNY3GT47"
+is_mandatory: true
