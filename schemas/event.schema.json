@@ -1,0 +1,118 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Radar Event Schema",
+  "description": "Schema for a radar event like the kick-off or a partner event",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The title of the event"
+    },
+    "date": {
+      "type": "string",
+      "format": "date-time",
+      "description": "The date of the event in ISO 8601 format, YYYY-MM-DDTHH:MM:SS+ZZ:ZZ"
+    },
+    "description": {
+      "type": "string",
+      "description": "A description of the event"
+    },
+    "is_public": {
+      "type": "boolean",
+      "description": "Whether the event is public or not"
+    },
+    "show_resources": {
+      "type": "boolean",
+      "description": "Whether the resources should be shown or not"
+    },
+    "meetings": {
+      "type": "array",
+      "description": "The meetings that are part of the event",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "The title of the meeting"
+          },
+          "description": {
+            "type": "string",
+            "description": "A description of the meeting"
+          },
+          "type": {
+            "enum": ["meeting"]
+          },
+          "url": {
+            "type": "string",
+            "description": "Navigation URL to the meeting"
+          }
+        }
+      }
+    },
+    "forms": {
+      "type": "array",
+      "description": "Mailchimp forms that are part of the event",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "The name of the form"
+          },
+          "email": {
+            "type": "string",
+            "description": "The email address to send the form to"
+          },
+          "content": {
+            "type": "string",
+            "description": "The content text of the forms consent checkbox"
+          }
+        }
+      }
+    },
+    "resources": {
+      "type": "array",
+      "description": "The resources that are part of the event",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "The title of the resource"
+          },
+          "description": {
+            "type": "string",
+            "description": "A description of the resource"
+          },
+          "type": {
+            "enum": ["meeting", "form", "slides", "video", "link", "tool", "game", "nothing"],
+            "description": "The type of the resource"
+          }
+        }
+      }
+    },
+    "location": {
+      "type": "object",
+      "description": "The location of the event",
+      "properties": {
+        "url": {
+          "type": "string",
+          "description": "Navigation URL to the location, e. g. Google or 3 words"
+        },
+        "address": {
+          "type": "string",
+          "description": "The address of the location"
+        },
+        "name": {
+          "type": "string",
+          "description": "The name of the location"
+        }
+      }
+    },
+    "is_mandatory": {
+      "type": "boolean",
+      "description": "Whether the event is mandatory or not for the DSP"
+    }
+  }
+}

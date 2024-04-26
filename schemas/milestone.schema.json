@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Radar Milestone Schema",
+  "description": "Schema for a radar milestone like check-ins",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["title", "deadline", "type", "description", "todos"],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "Title of the milestone"
+    },
+    "starts": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Start date of the milestone"
+    },
+    "deadline": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Deadline for the milestone"
+    },
+    "type": {
+      "type": "string",
+      "description": "Type of the milestone",
+      "enum": ["cutoff", "checkpoint"]
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the milestone"
+    },
+    "todos": {
+      "type": "array",
+      "description": "List of todos for the milestone",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "resources"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Title of the todo"
+          },
+          "resources": {
+            "type": "array",
+            "description": "List of resources for the todo",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["title", "url", "type"],
+              "properties": {
+                "title": {
+                  "type": "string",
+                  "description": "Title of the resource"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "description": "URL of the resource"
+                },
+                "type": {
+                  "type": "string",
+                  "description": "Type of the resource",
+                  "enum": ["form"]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

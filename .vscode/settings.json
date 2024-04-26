@@ -5,5 +5,9 @@
     "titleBar.inactiveBackground": "#fa1e5a99",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#FA1E5A"
+  "peacock.color": "#FA1E5A",
+  "yaml.schemas": {
+    "schemas/event.schema.json": "content-do/events/*.yaml",
+    "schemas/milestone.schema.json": "content-do/milestones/*.yaml",
+  },
 }
