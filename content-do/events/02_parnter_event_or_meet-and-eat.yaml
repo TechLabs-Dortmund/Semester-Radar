@@ -12,7 +12,5 @@ meetings: []
 forms: []
 resources: []
 location:
-  name: "KoFabrik in Bochum"
-  address: "Stühmeyerstraße 33, 44787 Bochum"
-  url: "https://maps.app.goo.gl/e3wjUvQmCFNY3GT47"
+  name: "TBD"
 is_mandatory: false
