@@ -7,11 +7,11 @@ description: |
   The goal is to help you get a better overview of other projects, get some inspiration and guidance and to help each other out with potential issues.
 is_public: false
 show_resources: true
-meetings: []
+meetings:
+  - title: "Midterm Project Pitches"
+    description: "The main room where we will meet"
+    type: meeting
+    url: "https://around.co/r/j90qiekw"
 forms: []
 resources: []
-location:
-  name: "KoFabrik in Bochum"
-  address: "Stühmeyerstraße 33, 44787 Bochum"
-  url: "https://maps.app.goo.gl/e3wjUvQmCFNY3GT47"
 is_mandatory: true
