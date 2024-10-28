@@ -6,7 +6,7 @@ on:
       - st25
   pull_request:
     branches:
-      - st25
+      - wt2425
 
 jobs:
   cd:
