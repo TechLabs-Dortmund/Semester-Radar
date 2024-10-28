@@ -1,0 +1,17 @@
+---
+title: "Deployment Workshop - Bringing Your Projects Online! 🚀"
+date: "2025-03-20T19:00:00+01:00"
+description: |
+  Ready to see your projects come to life on the web? Join us for our Deployment Workshop 🎉, where we'll guide you through the essential steps to get your work live online! From user-friendly solutions like Vercel 🌱 to more advanced setups with Virtual Private Clouds and Docker 🐳, this workshop provides a clear roadmap for deploying websites, designs, and apps with confidence.
+
+  Whether you're showcasing your static website 🌐 or interactive app, you'll leave with the know-how to make your mark online. Come curious and get ready to turn your ideas into something the world can see! ✨
+is_public: false
+show_resources: true
+meetings:
+  - title: "Around"
+    description: "The main room where we will meet"
+    type: meeting
+    url: "https://around.co/r/j90qiekw"
+forms: []
+resources: []
+is_mandatory: false

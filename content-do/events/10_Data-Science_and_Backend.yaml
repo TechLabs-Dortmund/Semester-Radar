@@ -1,8 +1,12 @@
 ---
-title: "Data Science & Backend"
-date: "2024-08-08T19:00:00+02:00"
+title: "Backend & Frontend Workshop - Bringing Your Project Together! 🔗"
+date: "2025-02-13T19:00:00+01:00"
 description: |
-  We will give you an introduction on how to connect your Data Science insights to your backend as well as connecting your backend to your frontend. Learn the basics of FastAPI in Python.
+  Curious about how to seamlessly connect the front and back ends of your project? Join us for our Connecting Backend & Frontend Workshop 🎉, where we'll explore essential architectures and strategies for bridging the gap between frontend interfaces and backend logic.
+
+  In this session, you'll learn about different methods to connect your interfaces and data, including hands-on examples with FastAPI in Python 🐍 and Express in Node.js ⚙️. We'll also dive into practical solutions for teams without a dedicated frontend or backend team, empowering data science-heavy groups to present their insights effectively 📊.
+
+  From data science applications to AI integrations, this workshop will inspire you to craft full-circle solutions that make an impact. Get ready to see how each part of your project connects for a seamless experience! 🚀
 is_public: false
 show_resources: true
 meetings:
